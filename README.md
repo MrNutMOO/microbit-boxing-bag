@@ -1,5 +1,5 @@
 
-> Open this page at [https://NuallanLampe.github.io/microbit-boxing-bag/](https://mrnutmoo.github.io/microbit-boxing-bag/)
+> Open this page at [https://github.com/NuallanLampe/microbit-boxing-bag/](https://github.com/NuallanLampe/microbit-boxing-bag/)
 
 ## Use as Extension
 
